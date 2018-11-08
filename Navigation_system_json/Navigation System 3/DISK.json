@@ -1,0 +1,13 @@
+{
+ 
+  "pois" :  [
+    {
+      "name" : "Berlin Wall" ,
+      "latitude" : 57.89,
+      "longitude" : 56.7,
+      "type" : "SIGHTSEEING" ,
+      "description" : "German Unification"
+    } 
+  ]
+}
+

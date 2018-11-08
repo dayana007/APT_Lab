@@ -1,0 +1,484 @@
+package id8k7xzixjcs98gixp5f9sv;
+
+/**
+@version 2.0
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidf6ycqixjcs98gixp5fggu:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid6e89hixjcs98gixp5hudj:oiref><oihard>
+@__modelType reference 
+*/
+class reference20 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidizb2sixjcs98gixp5jc1v:oiref><oihard>
+@__modelType reference 
+*/
+class reference21 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid4rhn3ixjcs98gixp5kbtj:oiref><oihard>
+@__modelType reference 
+*/
+class reference22 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidiwla5ixjcs98gixp5nire:oiref><oihard>
+@__modelType reference 
+*/
+class reference23 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid4a2bfixjcs98gixp5r7dd:oiref><oihard>
+@__modelType reference 
+*/
+class reference25 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidcboacixjcs98gixp5tgjx:oiref><oihard>
+@__modelType reference 
+*/
+class reference26 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidj1ffzixjcs98gixp5ur24:oiref><oihard>
+@__modelType reference 
+*/
+class reference27 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidg4ypmixjcs98gixp5wdic:oiref><oihard>
+@__modelType reference 
+*/
+class reference28 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid3g3vaixjcs98gixp5x9xc:oiref><oihard>
+@__modelType reference 
+*/
+class reference29 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidmjvnixjcs98gixp5zs7b:oiref><oihard>
+@__modelType reference 
+*/
+class reference30 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid1dnd7ixjcs98gixp60mf3:oiref><oihard>
+@__modelType reference 
+*/
+class reference31 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid24ymxixjcs98gixp6182n:oiref><oihard>
+@__modelType reference 
+*/
+class reference32 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid76taqixjcs98gixp62wgf:oiref><oihard>
+@__modelType reference 
+*/
+class reference33 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid37n57ixjcs98gixp6cgf1:oiref><oihard>
+@__modelType reference 
+*/
+class reference34 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid6gyc3ixjcs98gixp6d769:oiref><oihard>
+@__modelType reference 
+*/
+class reference35 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidc2grdixjcs98gixp6f080:oiref><oihard>
+@__modelType reference 
+*/
+class reference36 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid2q8cjixjcs98gixp6gb30:oiref><oihard>
+@__modelType reference 
+*/
+class reference37 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidhmzptixjcs98gixp6kk8n:oiref><oihard>
+@__modelType reference 
+*/
+class reference38 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid9zar1ixjcs98gixp6lfas:oiref><oihard>
+@__modelType reference 
+*/
+class reference39 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidgu4mixjcs98gixp6mo8e:oiref><oihard>
+@__modelType reference 
+*/
+class reference40 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidbt22oixjcs98gixp6o0yf:oiref><oihard>
+@__modelType reference 
+*/
+class reference41 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid83wksixjcs98gixp6qc2b:oiref><oihard>
+@__modelType reference 
+*/
+class reference42 {
+}
+/**
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid8jr0dixjcs98gixp6qjlq:oiref><oihard>
+@__modelType reference 
+*/
+class reference43 {
+}
+}/**
+
+@__tags
+@shapeType StateDiagram
+@stereotype Realtime StateDiagram 
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAABc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAVl7X+gAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0xBUFRPUC0yNTVONENOU3QA
+GlN0YXRlX01hY2hpbmVfSnNvbl9QYXJzaW5ndAAFZGF5YW54eA==
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidizb2sixjcs98gixp5jc1v.linkidcryyiixjcs98gixp5jnen:oiref>=42,66,100,66:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid76taqixjcs98gixp62wgf:oiref>=670,390,256,40,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidiwla5ixjcs98gixp5nire:oiref>=620,70,130,60,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidj1ffzixjcs98gixp5ur24.linkidii7w0ixjcs98gixp60iso:oiref>=925,277,832,330:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid4a2bfixjcs98gixp5r7dd:oiref>=530,20,110,40,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidmjvnixjcs98gixp5zs7b.linkid84w8lixjcs98gixp62ssn:oiref>=780,368,660,368:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid2q8cjixjcs98gixp6gb30:oiref>=170,150,120,80,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid24ymxixjcs98gixp6182n.linkid5h2iyixjcs98gixp6d3yh:oiref>=615,350,897,130:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidf6ycqixjcs98gixp5fggu:oiref>=100,40,119,66,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidc2grdixjcs98gixp6f080:oiref>=430,310,95,60,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid1dnd7ixjcs98gixp60mf3:oiref>=900,300,141,40,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid37n57ixjcs98gixp6cgf1:oiref>=350,210,203,40,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidiwla5ixjcs98gixp5nire.linkidb5sboixjcs98gixp5w9bl:oiref>=750,100,870,100:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid2q8cjixjcs98gixp6gb30.linkid2hxa5ixjcs98gixp6lbzo:oiref>=290,166,620,118:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidgu4mixjcs98gixp6mo8e.linkid8fxwfixjcs98gixp6qgxu:oiref>=55,170,18,115:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid37n57ixjcs98gixp6cgf1.linkide9wrzixjcs98gixp6kdqk:oiref>=350,220,290,220:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidgu4mixjcs98gixp6mo8e:oiref>=20,170,70,120,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidcboacixjcs98gixp5tgjx:oiref>=870,70,110,60,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid6gyc3ixjcs98gixp6d769:oiref>=650,180,138,40,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid24ymxixjcs98gixp6182n.linkid8n36nixjcs98gixp6j2j8:oiref>=585,350,367,250:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid3g3vaixjcs98gixp5x9xc:oiref>=950,160,80,60,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidf6ycqixjcs98gixp5fggu.linkidi91xoixjcs98gixp5jwd4:oiref>=219,88,400,88:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid83wksixjcs98gixp6qc2b:oiref>=10,100,15,15,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid24ymxixjcs98gixp6182n:oiref>=570,350,90,90,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidbt22oixjcs98gixp6o0yf:oiref>=90,230,132,40,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid2q8cjixjcs98gixp6gb30.linkid25gumixjcs98gixp6novb:oiref>=170,200,90,200:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidg4ypmixjcs98gixp5wdic:oiref>=760,20,101,40,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidmjvnixjcs98gixp5zs7b:oiref>=780,330,105,56,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidj1ffzixjcs98gixp5ur24:oiref>=870,220,110,57,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidhmzptixjcs98gixp6kk8n:oiref>=260,250,87,40,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidizb2sixjcs98gixp5jc1v:oiref>=30,60,12,12,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid9zar1ixjcs98gixp6lfas:oiref>=480,160,130,40,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid4rhn3ixjcs98gixp5kbtj:oiref>=230,20,157,40,1:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid6e89hixjcs98gixp5hudj:oiref>=400,70,120,60,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidcboacixjcs98gixp5tgjx.linkideobtpixjcs98gixp5x58h:oiref>=925,130,925,220:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid8jr0dixjcs98gixp6qjlq:oiref>=50,110,100,40,0:oigroup>
+<oigroup:<oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid6e89hixjcs98gixp5hudj.linkiddau38ixjcs98gixp5r2ne:oiref>=520,100,620,100:oigroup>
+*/
+class __positions {
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_first_token 
+*/
+class nodeidf6ycqixjcs98gixp5fggu {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid6e89hixjcs98gixp5hudj:oiref><oihard> 
+*/
+class linkidi91xoixjcs98gixp5jwd4 {
+}
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_db_name 
+*/
+class nodeid6e89hixjcs98gixp5hudj {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidiwla5ixjcs98gixp5nire:oiref><oihard> 
+*/
+class linkiddau38ixjcs98gixp5r2ne {
+}
+}
+/**
+@shapeType StartState
+@__modelType node
+@name StartState1 
+*/
+class nodeidizb2sixjcs98gixp5jc1v {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidf6ycqixjcs98gixp5fggu:oiref><oihard> 
+*/
+class linkidcryyiixjcs98gixp5jnen {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note1
+@text ev_begin_object_token 
+*/
+class nodeid4rhn3ixjcs98gixp5kbtj {
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_db_begin 
+*/
+class nodeidiwla5ixjcs98gixp5nire {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidcboacixjcs98gixp5tgjx:oiref><oihard> 
+*/
+class linkidb5sboixjcs98gixp5w9bl {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note2
+@text ev_db_name 
+*/
+class nodeid4a2bfixjcs98gixp5r7dd {
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_attribute_name 
+*/
+class nodeidcboacixjcs98gixp5tgjx {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidj1ffzixjcs98gixp5ur24:oiref><oihard> 
+*/
+class linkideobtpixjcs98gixp5x58h {
+}
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_name_separator 
+*/
+class nodeidj1ffzixjcs98gixp5ur24 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidmjvnixjcs98gixp5zs7b:oiref><oihard> 
+*/
+class linkidii7w0ixjcs98gixp60iso {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note3
+@text ev_db_begin 
+*/
+class nodeidg4ypmixjcs98gixp5wdic {
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note4 
+@text ev_attribute_name/
+store attribute name
+*/
+class nodeid3g3vaixjcs98gixp5x9xc {
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_vale 
+*/
+class nodeidmjvnixjcs98gixp5zs7b {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid24ymxixjcs98gixp6182n:oiref><oihard> 
+*/
+class linkid84w8lixjcs98gixp62ssn {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note5
+@text ev_name_separator 
+*/
+class nodeid1dnd7ixjcs98gixp60mf3 {
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_value_separator 
+*/
+class nodeid24ymxixjcs98gixp6182n {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidcboacixjcs98gixp5tgjx:oiref><oihard> 
+*/
+class linkid5h2iyixjcs98gixp6d3yh {
+}
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid37n57ixjcs98gixp6cgf1:oiref><oihard> 
+*/
+class linkid8n36nixjcs98gixp6j2j8 {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note6
+@text ev_value/store value in respective objects 
+*/
+class nodeid76taqixjcs98gixp62wgf {
+}
+/**
+@shapeType ConcurrentState
+@__modelType node
+@name Waiting_for_end_of_object_token
+@trtelement 
+*/
+class nodeid37n57ixjcs98gixp6cgf1 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid2q8cjixjcs98gixp6gb30:oiref><oihard> 
+*/
+class linkide9wrzixjcs98gixp6kdqk {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note7
+@text ev_value_separator 
+*/
+class nodeid6gyc3ixjcs98gixp6d769 {
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note8
+@text no ev_value_separator 
+*/
+class nodeidc2grdixjcs98gixp6f080 {
+}
+/**
+@shapeType State
+@__modelType node
+@name Waiting_for_next_object_value_separator 
+*/
+class nodeid2q8cjixjcs98gixp6gb30 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidiwla5ixjcs98gixp5nire:oiref><oihard> 
+*/
+class linkid2hxa5ixjcs98gixp6lbzo {
+}
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeidgu4mixjcs98gixp6mo8e:oiref><oihard> 
+*/
+class linkid25gumixjcs98gixp6novb {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note9
+@text ev_end_of_object 
+*/
+class nodeidhmzptixjcs98gixp6kk8n {
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note10
+@text ev_next_object_value_separator 
+*/
+class nodeid9zar1ixjcs98gixp6lfas {
+}
+/**
+@shapeType State
+@__modelType node
+@name waiting_for_db_object_end 
+*/
+class nodeidgu4mixjcs98gixp6mo8e {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id8k7xzixjcs98gixp5f9sv.nodeid83wksixjcs98gixp6qc2b:oiref><oihard> 
+*/
+class linkid8fxwfixjcs98gixp6qgxu {
+}
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note11
+@text ev_no_next_object 
+*/
+class nodeidbt22oixjcs98gixp6o0yf {
+}
+/**
+@shapeType EndState
+@__modelType node
+@name EndState1 
+*/
+class nodeid83wksixjcs98gixp6qc2b {
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note12
+@text ev_end_db_object 
+*/
+class nodeid8jr0dixjcs98gixp6qjlq {
+}
