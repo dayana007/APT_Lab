@@ -1,0 +1,60 @@
+package idhyf4giumsmwl2iumt54h6;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#CCoordinate:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#t_coordinate:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAACc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAVfu1jwAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0xBUFRPUC0yNTVONENOU3QA
+A3NyY3QABWRheWFueHNxAH4AAgAAAVfz/JgAc3EAfgAFAAAAAncEAAAACnNxAH4AB3QAD0xBUFRP
+UC0yNTVONENOU3QAA3NyY3QABWRheWFuc3EAfgAHdAAPTEFQVE9QLTI1NU40Q05TdAAGbXljb2Rl
+dAAFZGF5YW54eA==
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAACdAAkPG9pcmVmOmNwcCNDbGFzcyN0X2Nvb3JkaW5hdGU6
+b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAACc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98C
+AAFKAAV2YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAVf5IvQAc3IAE2ph
+dmEudXRpbC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5s
+LmRvY2Jvb2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJM
+amF2YS9sYW5nL1N0cmluZztMAARuYW1lcQB+AApMAAR1c2VycQB+AAp4cHQAD0xBUFRPUC0yNTVO
+NENOU3QADHRfY29vcmRpbmF0ZXQABWRheWFueHNxAH4ABAAAAVfz/JgAc3EAfgAHAAAAAXcEAAAA
+CnNxAH4ACXQAD0xBUFRPUC0yNTVONENOU3QADHRfY29vcmRpbmF0ZXQABWRheWFueHh0ACM8b2ly
+ZWY6Y3BwI0NsYXNzI0NDb29yZGluYXRlOm9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQAAAAA3Nx
+AH4ABAAAAVf5IvQAc3EAfgAHAAAAAXcEAAAACnNxAH4ACXEAfgAMdAALQ0Nvb3JkaW5hdGVxAH4A
+DnhzcQB+AAQAAAFX7tY8AHNxAH4ABwAAAAF3BAAAAApzcQB+AAl0AA9MQVBUT1AtMjU1TjRDTlN0
+AAtDQ29vcmRpbmF0ZXQABWRheWFueHNxAH4ABAAAAVfz/JgAc3EAfgAHAAAAAXcEAAAACnNxAH4A
+CXEAfgASdAALQ0Nvb3JkaW5hdGVxAH4AFHh4eA==
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Class#CCoordinate:oiref>=50,10,117,270,1:oigroup>
+<oigroup:<oiref:cpp#Class#t_coordinate:oiref>=220,50,104,139,1:oigroup>
+<oigroup:<oiref:design#Class#id41n0uiuohn1gbiuohn1xg.diagram:oiref>=420,80,83,95,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CCoordinate:oiref><Autodependency><oiref:cpp#Class#t_coordinate:oiref>=167,119,220,119:oigroup>
+*/
+class __positions {
+}
