@@ -1,0 +1,55 @@
+package id45vzniurwlikpiurwlj2w;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id27vm4iurwlikpiurwljh8.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#mycode.mymodel:oiref> 
+*/
+class reference1 {
+}
+/**
+@__ref <oiref:cpp#Class#CWaypoint:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+}/**
+@__tags
+@shapeType ClassDiagram
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAABc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAVgDb6wAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0xBUFRPUC0yNTVONENOU3QA
+Bm15Y29kZXQABWRheWFueHg=
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAACdAAmPG9pcmVmOmNwcCNDbGFzcyNzdGQ6OkNXYXlwb2lu
+dDpvaXJlZj5wdAAhPG9pcmVmOmNwcCNDbGFzcyNDV2F5cG9pbnQ6b2lyZWY+c3EAfgAAP0AAAAAA
+AAx3CAAAABAAAAABc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2YWx1ZXhyABBqYXZh
+LmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAVgDb6wAc3IAE2phdmEudXRpbC5BcnJheUxpc3R4
+gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jvb2s0VEEuaW1wbC5D
+aGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZztM
+AARuYW1lcQB+AAtMAAR1c2VycQB+AAt4cHQAD0xBUFRPUC0yNTVONENOU3QACUNXYXlwb2ludHQA
+BWRheWFueHh4 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Member#CWaypoint#m_name:oiref>=400,90,122,16,1:oigroup>
+<oigroup:<oiref:design#Class#id27vm4iurwlikpiurwljh8.diagram:oiref>=110,90,119,95,1:oigroup>
+<oigroup:<oiref:cpp#Class#std::CWaypoint:oiref>=10,10,97,101,1:oigroup>
+<oigroup:<oiref:cpp#Class#CWaypoint:oiref>=350,70,340,300,0:oigroup>
+<oigroup:<oiref:cpp#Member#CWaypoint#m_latitude:oiref>=400,110,122,16,1:oigroup>
+*/
+class __positions {
+}
